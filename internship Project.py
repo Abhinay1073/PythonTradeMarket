@@ -1,6 +1,5 @@
 # Bitcoin Market Sentiment vs Trader Performance Analysis
 # Author: Bhukya Abhinay
-# Internship Project - June 2025
 # Objective: Analyze how trader performance relates to market sentiment (Fear/Greed)
 
 import pandas as pd
